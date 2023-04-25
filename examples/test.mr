@@ -1,9 +1,0 @@
-/*
-    aa
-*/
-
-println(round(45.6))
-
-fill("world", -176, 78, -40, -180, 73, -36, "IRON_BLOCK")
-setblock("world", -176, 73, -40, "DIAMOND_BLOCK")
-setblock("world", -180, 78, -36, "DIAMOND_BLOCK")
